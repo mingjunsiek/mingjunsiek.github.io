@@ -19139,7 +19139,7 @@ p=A.e2("Hello there! Welcome to my portfolio!",q,20,p,q)
 s=A.an(a).R8.e
 s.toString
 r=t.VO
-return A.a([p,A.e2("My name is ",q,20,s,q),A.e2("Ming Jun Siek",q,20,A.an(a).R8.c.a01(B.ab,B.ad),q),A.Pw(A.ex(A.a([B.HL,A.ex(q,q,A.an(a).R8.z.cm(B.ab),"Flutter developer "),B.HS],r),q,q,q)),A.Pw(A.ex(A.a([B.HP,A.ex(q,q,A.an(a).R8.z.cm(B.ab),"Flutter.")],r),q,q,q))],t.D)},
+return A.a([p,A.e2("My name is ",q,20,s,q),A.e2("Ming Jun Siek",q,20,A.an(a).R8.c.a01(B.ab,B.ad),q),A.Pw(A.ex(A.a([B.HK,A.ex(q,q,A.an(a).R8.z.cm(B.ab),"Flutter developer "),B.HS],r),q,q,q)),A.Pw(A.ex(A.a([B.HP,A.ex(q,q,A.an(a).R8.z.cm(B.ab),"Flutter.")],r),q,q,q))],t.D)},
 Pw(a){var s=null
 return new A.hE(s,a,A.nq(s,s,s,s,s,s,s,s,s,s,s,20,s,s,s,s,!0,s,s,s,s,s,s,s,s),18,0.1,s,s,s)},
 adV(a,b){var s
@@ -60206,12 +60206,12 @@ A.BI.prototype={
 C(a,b){var s,r,q,p,o,n,m=null,l={}
 l.a=4000
 s=t.VO
-r=A.Pw(A.ex(A.a([B.HR,A.ex(m,m,A.an(b).R8.z.cm(B.ab),"Ming Jun "),B.HJ],s),m,m,m))
-q=A.a([B.HM],s)
+r=A.Pw(A.ex(A.a([B.HR,A.ex(m,m,A.an(b).R8.z.cm(B.ab),"Ming Jun "),B.HM],s),m,m,m))
+q=A.a([B.HL],s)
 B.b.I(q,A.jT(!0,A.a([A.Bk(b,"UI/UX"),A.Bk(b,"web"),A.Bk(b,"mobile"),A.Bk(b,"hardware"),A.Bk(b,"data science")],s),B.HQ,t.P6))
 q.push(B.HN)
 q=A.Pw(A.ex(q,m,m,m))
-s=A.Pw(A.ex(A.a([B.HK,A.Bk(b,"Glints"),B.HO],s),m,m,m))
+s=A.Pw(A.ex(A.a([B.HJ,A.Bk(b,"Glints"),B.HO],s),m,m,m))
 p=A.an(b).R8.z
 p.toString
 o=t.Ek
@@ -65706,11 +65706,11 @@ B.HH=new A.np(1,"fade")
 B.cZ=new A.np(2,"ellipsis")
 B.ui=new A.np(3,"visible")
 B.HI=new A.y0(null,null,null)
-B.HJ=new A.dT("but you can call me MJ. I fell down the technology rabbit hole ever since I took up my Diploma in Information Technology years ago, which led me to obtain a Bachelor Degree in Computer Science in Nanyang Technology University. ",null,null,B.N,null)
-B.HK=new A.dT("Currently, I am focusing on building features that would allow our users to reach their full career potential at ",null,null,B.N,null)
-B.HL=new A.dT("I'm a ",null,null,B.N,null)
-B.HM=new A.dT("I have dipped my toes into various skills and technologies, be it ",null,null,B.N,null)
+B.HJ=new A.dT("Currently, I am focusing on building features that would allow our users to reach their full career potential at ",null,null,B.N,null)
+B.HK=new A.dT("I'm a ",null,null,B.N,null)
+B.HL=new A.dT("I have dipped my toes into various skills and technologies, be it ",null,null,B.N,null)
 B.HN=new A.dT("but I find that I am most passionate in developing mobile applications that aims to solve everyday issues.",null,null,B.N,null)
+B.HM=new A.dT("but you can call me MJ. I fell down the technology rabbit hole ever since I took up my Diploma in Information Technology years ago, which led me to obtain a Bachelor Degree in Computer Science in Nanyang Technological University. ",null,null,B.N,null)
 B.HO=new A.dT(".",null,null,B.N,null)
 B.HP=new A.dT("Fun fact: This website is built using ",null,null,B.N,null)
 B.HQ=new A.dT(", ",null,null,B.N,null)
