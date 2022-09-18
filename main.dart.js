@@ -18332,7 +18332,7 @@ case 3:return"Contact"
 case 4:return"Resume"
 default:return"Home"}},
 ake(a,b){var s=null
-return A.a([new A.h4(B.ft,A.i2(B.ft)===A.i2(a),b,s,!0,s),new A.h4(B.rm,A.i2(B.rm)===A.i2(a),b,s,!0,s),new A.h4(B.rn,A.i2(B.rn)===A.i2(a),b,s,!0,s),new A.h4(B.ro,A.i2(B.ro)===A.i2(a),b,s,!0,s),new A.pv(new A.aaH(b,a),A.rf("https://drive.google.com/file/d/1dIXkRkmu3WUOIx2cxqwV3wcr46l6klAf/view?usp=sharing",0,s),B.d5,s)],t.D)},
+return A.a([new A.h4(B.ft,A.i2(B.ft)===A.i2(a),b,s,!0,s),new A.h4(B.rm,A.i2(B.rm)===A.i2(a),b,s,!0,s),new A.h4(B.rn,A.i2(B.rn)===A.i2(a),b,s,!0,s),new A.h4(B.ro,A.i2(B.ro)===A.i2(a),b,s,!0,s),new A.pv(new A.aaH(b,a),A.rf("https://drive.google.com/drive/folders/18sY9cXa2ESUV3X_H_eCTWzAaJgaEfxL8?usp=sharing",0,s),B.d5,s)],t.D)},
 kC:function kC(a,b){this.a=a
 this.b=b},
 aaH:function aaH(a,b){this.a=a
